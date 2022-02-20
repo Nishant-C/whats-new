@@ -5,7 +5,7 @@ An Android application which would show the "what's new" information of an appli
 
 [1] Read the information about all the installed application on the device with their version number [Done]
 
-[2] Create a local database to store this information during initial load.
+[2] Create a local database to store this information during initial load. [Done]
 
 [3] Know when an application is opened, and check if the app is updated in the background if the version in the DB is different from the current version of the application
 
