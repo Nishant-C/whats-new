@@ -3,6 +3,7 @@ An Android application which would show the "what's new" information of an appli
 
 ## Initial Tasks 
 
+
 [1] Read the information about all the installed application on the device with their version number [Done]
 
 [2] Create a local database to store this information during initial load. [Done]
